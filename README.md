@@ -1,33 +1,33 @@
 
-## 📚 Offerings Scraper – CUD
+## Offerings Scraper – CUD
 
-### 🎯 Overview
+### Overview
 
 **Offerings Scraper** is a Streamlit-based web application that automates the collection and analysis of course data from the **Canadian University Dubai (CUD)** student portal.
 It provides an intuitive interface to log in, scrape course offerings, store them as a CSV file, and interact with the data using either a **local LLM (Ollama)** or **Anthropic Claude API** for natural language queries.
 
 ---
 
-### ⚙️ Features
+### Features
 
-* 🔐 **Automated Login & Scraping:**
+* **Automated Login & Scraping:**
   Runs a Python browser agent to collect course information from the CUD portal using student credentials.
 
-* 📊 **Data Preview:**
+* **Data Preview:**
   Displays scraped course data in an interactive table with filtering and sorting.
 
-* 🤖 **LLM-Powered Analysis:**
+* **LLM-Powered Analysis:**
   Users can ask natural language questions about the courses — the app interprets the CSV and responds using:
 
   * **Claude (Anthropic API)**
   * **Ollama (local LLM such as Mistral)**
 
-* 🧠 **Smart Inference:**
+* **Smart Inference:**
   Automatically deduces the **year of study** from the course codes (e.g., `BCS101 → 1st year`, `BCS311 → 3rd year`).
 
 ---
 
-### 🧩 Tech Stack
+### Tech Stack
 
 * **Frontend:** Streamlit
 * **Backend:** Python
@@ -37,7 +37,7 @@ It provides an intuitive interface to log in, scrape course offerings, store the
 
 ---
 
-### 🧰 How It Works
+### How It Works
 
 1. Click **“Scrape courses from portal”** in the web app.
 2. Enter your CUD credentials, semester, and year of study.
@@ -46,7 +46,7 @@ It provides an intuitive interface to log in, scrape course offerings, store the
 
 ---
 
-### 🚀 Run Locally
+### Run Locally
 
 ```bash
 # Clone the repo
@@ -65,8 +65,8 @@ streamlit run app.py
 
 ---
 
-### 🧾 Example Query
+### Example Query
 
-> 💬 *“Show me all courses taught by Dr. Said Elnaffar.”*
-> 🤖 *Claude / Mistral replies with a filtered list based on the CSV data.*
+> *“Show me all courses taught by Dr. Said Elnaffar.”*
+> *Claude / Mistral replies with a filtered list based on the CSV data.*
 
