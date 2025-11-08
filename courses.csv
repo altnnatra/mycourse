@@ -1,0 +1,44 @@
+Course,Course Name,Instructor,Room,Days,Credits,Start Time,End Time,Max Enrollment,Total Enrollment
+BCS101Lec1,Elements of Computing,"Seyam, Ahmed",HUB-117 Software Lab,M,3,11:00:00 AM,12:59:00 PM,24,22
+BCS101Lec1,Elements of Computing,"Garg, Sahil",HUB-114,T,3,11:00:00 AM,12:59:00 PM,24,22
+BCS101Lec2,Elements of Computing,"Garg, Sahil",HUB-114,T,3,11:00:00 AM,12:59:00 PM,24,25
+BCS101Lec2,Elements of Computing,"Seyam, Ahmed",HUB-118 Robotic Lab,R,3,5:00:00 PM,6:59:00 PM,24,25
+BCS101Lec3,Elements of Computing,"Seyam, Ahmed",HUB-118 Robotic Lab,T,3,1:00:00 PM,2:59:00 PM,24,24
+BCS101Lec3,Elements of Computing,"Garg, Sahil",HUB-114,W,3,11:00:00 AM,12:59:00 PM,24,24
+BCS101Lec4,Elements of Computing,"Yousefi, Adel",HUB-117 Software Lab,T,3,1:00:00 PM,2:59:00 PM,24,8
+BCS101Lec4,Elements of Computing,"Garg, Sahil",HUB-114,W,3,11:00:00 AM,12:59:00 PM,24,8
+BCS102Lec1,Introduction to Computing Science I,"Yousefi, Adel",HUB-117 Software Lab,T,3,5:00:00 PM,6:59:00 PM,24,24
+BCS102Lec1,Introduction to Computing Science I,"Zgheib, Rita",MGT-204,W,3,11:00:00 AM,12:59:00 PM,24,24
+BCS102Lec2,Introduction to Computing Science I,"Zgheib, Rita",HUB-117 Software Lab,M,3,9:00:00 AM,10:59:00 AM,24,25
+BCS102Lec2,Introduction to Computing Science I,"Zgheib, Rita",MGT-204,W,3,11:00:00 AM,12:59:00 PM,24,25
+BCS102Lec3,Introduction to Computing Science I,"Zgheib, Rita",MGT-204,T,3,3:00:00 PM,4:59:00 PM,24,24
+BCS102Lec3,Introduction to Computing Science I,"Seyam, Ahmed",HUB-117 Software Lab,W,3,1:00:00 PM,2:59:00 PM,24,24
+BCS102Lec4,Introduction to Computing Science I,"Zgheib, Rita",MGT-204,T,3,3:00:00 PM,4:59:00 PM,24,24
+BCS102Lec4,Introduction to Computing Science I,"Zgheib, Rita",HUB-117 Software Lab,R,3,5:00:00 PM,6:59:00 PM,24,24
+BCS221Lec3,Communication Networks,"Faheem, Yasir",HUB-118 Robotic Lab,M,3,3:00:00 PM,4:59:00 PM,24,24
+BCS221Lec3,Communication Networks,"Faheem, Yasir",MGT-204,T,3,11:00:00 AM,12:59:00 PM,24,24
+BCS221Lec4,Communication Networks,"Faheem, Yasir",MGT-204,T,3,11:00:00 AM,12:59:00 PM,24,24
+BCS221Lec4,Communication Networks,"Yousefi, Adel",HUB-118 Robotic Lab,W,3,1:00:00 PM,2:59:00 PM,24,24
+BCS222Lec1,Programming Paradigms,"El Messiry, Haytham",MGT-208,R,3,9:00:00 AM,11:59:00 AM,48,42
+BCS222Lec2,Programming Paradigms,"El Messiry, Haytham",MGT-204,W,3,3:00:00 PM,5:59:00 PM,48,48
+BCS323Lec2,System-Level Programming,"Elgazzar, Khalid",MGT-204,M,3,5:00:00 PM,6:59:00 PM,24,23
+BCS323Lec2,System-Level Programming,"Seyam, Ahmed",HUB-117 Software Lab,W,3,11:00:00 AM,12:59:00 PM,24,23
+BCS323Lec3,System-Level Programming,"Elgazzar, Khalid",MGT-204,M,3,7:00:00 PM,8:59:00 PM,24,22
+BCS323Lec3,System-Level Programming,"Seyam, Ahmed",HUB-118 Robotic Lab,T,3,5:00:00 PM,6:59:00 PM,24,22
+BCS323Lec4,System-Level Programming,"Elgazzar, Khalid",MGT-204,M,3,7:00:00 PM,8:59:00 PM,24,21
+BCS323Lec4,System-Level Programming,"Yousefi, Adel",HUB-118 Robotic Lab,R,3,3:00:00 PM,4:59:00 PM,24,21
+BCS403Lec1,Advanced Database Systems,"Hussein, Ahmed",MGT-106,W,3,9:00:00 AM,11:59:00 AM,32,27
+BCS405Lec1,Artificial Intelligence,"Kolankeh , Arash",MGT-105,T,3,3:00:00 PM,4:59:00 PM,20,11
+BCS405Lec1,Artificial Intelligence,"Yousefi, Adel",HUB-115 Networking Lab,W,3,7:00:00 PM,8:59:00 PM,20,11
+BCS405Lec2,Artificial Intelligence,"Kolankeh , Arash",MGT-105,T,3,3:00:00 PM,4:59:00 PM,20,22
+BCS405Lec2,Artificial Intelligence,"Kolankeh , Arash",HUB-118 Robotic Lab,R,3,10:00:00 AM,11:59:00 AM,20,22
+BCS410Prj1,Computer Science Project,"Zgheib, Rita",,N\A,6,12:00:00 AM,12:00:00 AM,21,7
+BSD312Lec1,Software Quality,"Oguz, Kaya",MGT-205,M,3,9:00:00 AM,11:59:00 AM,20,11
+BSD313Lec1,Advanced User Interface Design,"Oguz, Kaya",HUB-119,R,3,6:00:00 PM,8:59:00 PM,21,9
+BSD410Prj1,Software Design Project,"Zgheib, Rita",,N\A,6,12:00:00 AM,12:00:00 AM,10,0
+BUS310Lec1,Project Management,"Mohamed, Tamer",MGT-104,W,3,9:00:00 AM,11:59:00 AM,45,47
+COM411LecT1,Digital Filter Design,"Sulaiman, Amr",MGT-106,W,3,12:00:00 PM,2:59:00 PM,32,22
+CYS311Lec1,Security Threats and Risk Analysis,"Satrya, Gandeva",MGT-207,R,3,3:00:00 PM,5:59:00 PM,35,30
+CYS312Lec1,Cryptographic Algorithms and Protocols,"Satrya, Gandeva",MGT-204,M,3,1:00:00 PM,3:59:00 PM,46,31
+CYS412Lec1,Mobile and Wireless Security,"Satrya, Gandeva",MGT-106,T,4,6:00:00 PM,8:59:00 PM,24,14
+CYS412Lec1,Mobile and Wireless Security,"Seyam, Ahmed",HUB-118 Robotic Lab,R,4,7:00:00 PM,8:59:00 PM,24,14
